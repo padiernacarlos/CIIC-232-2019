@@ -1,0 +1,4 @@
+myParams.degree = 4;
+myParams.gamma  = 0.01;
+myParams.alpha  = 0.1;
+myParams.C      = 32;

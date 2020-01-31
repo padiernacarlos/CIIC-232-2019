@@ -1,0 +1,3 @@
+Este proyecto es una red neuronal que ayuda a clasificar 
+la respuesta a un estimulo ABR. Para poder ejecutarlo
+se necesita una GPU.
